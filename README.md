@@ -30,9 +30,9 @@ The spread of data was interesting but heavily concentrated on lower value goals
 - What can you conclude about the Outcomes based on Goals?
 Lower realistic value goals and pledges supported successful campaigns.  Goals and Pledges in the range of $0 - $4999 makes up the approx. 75% of the goals on successful campaigns.  
 - What are some limitations of this dataset?
-	The spread and the type of information.   
-***What are some other possible tables and/or graphs that we could create?
-It would be interesting to know more about other subcategories and their goal/pledge amounts 
-It would be helpful to know more about the few larger goal/pledge campaign and how those were accomplished.  We would need to gather more information for this analysis.  
+	   The spread and the type of information.   
+- What are some other possible tables and/or graphs that we could create?
+  It would be interesting to know more about other subcategories and their goal/pledge amounts 
+  It would be helpful to know more about the few larger goal/pledge campaign and how those were accomplished.  We would need to gather more information for this analysis.  
 
 
