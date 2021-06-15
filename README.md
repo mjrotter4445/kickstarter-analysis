@@ -23,7 +23,7 @@ The line chart displays how the percentage of successful, failed and canceled pl
 * The most successful goal range is the Less than $1000.  
 * The next most successful goal range is $35,000-$49,999 range but there are very few of those productions.      
 
-![Chart_Outcomes based on Goal](Resources/Chart_Outcomes based on Goal.png)
+![Chart_Theatre_Outcomes_vs_Launch](Resources/Chart_Theatre_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 The challenges I faced were familiarization with the spreadsheet and navigating the subcategories.  I had to remember to narrow down to the data we were studying mainly Theatre and Plays.    I had mistakes in my formula and was still working with over 4000 records instead of approx. 1000 plays.   Once corrected, the story came together and the chart looked more similar to the example in the assignment.  
