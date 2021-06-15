@@ -16,14 +16,14 @@ We concluded the large majority of successful projects are launched in certain s
 1. The best Theatre Play season appears to be May-July with a ramp up in April. 
 2. The next most successful launch month is October where a smaller number of plays launched successfully.   
 
-![Chart_Theatre_Outcomes_vs_Launch](Resources/https://github.com/mjrotter4445/kickstarter-analysis/blob/main/Resources/Chart_Theater_Outcomes_vs_Launch.png)
+![Chart_Theatre_Outcomes_vs_Launch](https://github.com/mjrotter4445/kickstarter-analysis/blob/main/Resources/Chart_Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The line chart displays how the percentage of successful, failed and canceled plays and their relationship between the goal amount ranges. 
 * The most successful goal range is the Less than $1000.  
 * The next most successful goal range is $35,000-$49,999 range but there are very few of those productions.      
 
-![Chart_Outcomes based on Goal](Resources/https://github.com/mjrotter4445/kickstarter-analysis/blob/main/Resources/Chart_Outcomes%20based%20on%20Goal.png)
+![Chart_Outcomes based on Goal](https://github.com/mjrotter4445/kickstarter-analysis/blob/main/Resources/Chart_Outcomes%20based%20on%20Goal.png)
 
 ### Challenges and Difficulties Encountered
 The challenges I faced were familiarization with the spreadsheet and navigating the subcategories.  I had to remember to narrow down to the data we were studying mainly Theatre and Plays.    I had mistakes in my formula and was still working with over 4000 records instead of approx. 1000 plays.   Once corrected, the story came together and the chart looked more similar to the example in the assignment.  
