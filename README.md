@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover useful trends
 # Kickstarting with Excel
 ## Overview of Project
-Analyze, Sort, & Organize Crowdfunding Data.  Use the data to help Louise, a playwright, to plan her fundraising campaign.  
+Analyze, sort, and organize Crowdfunding Data.  Use the data to help Louise, a playwright, to plan her fundraising campaign.  
 ### Introduction
 Thank you, Louise, for your time and trust in our firm to provide data services.  The challenge of fundraising for a production must be a lot of work.   Our company has tools and information to help you navigate that course to success.   
 ### Purpose
