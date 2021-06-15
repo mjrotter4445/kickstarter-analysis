@@ -16,7 +16,7 @@ We concluded the large majority of successful projects are launched in certain s
 1. The best Theatre Play season appears to be May-July with a ramp up in April. 
 2. The next most successful launch month is October where a smaller number of plays launched successfully.   
 
-![Chart_Theatre_Outcomes_vs_Launch](Resources/x)
+![Chart_Theatre_Outcomes_vs_Launch](Resources/https://github.com/mjrotter4445/kickstarter-analysis/blob/main/Resources/Chart_Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The line chart displays how the percentage of successful, failed and canceled plays and their relationship between the goal amount ranges. 
